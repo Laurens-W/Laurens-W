@@ -1,4 +1,4 @@
-## Hi there 👋
+Software engineer who enjoys working on software for developers like OpenRewrite, Spring and OpenAPI generator. In my free time I like to travel or spend time tinkering with my car(s).
 
 <!--
 **Laurens-W/Laurens-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
